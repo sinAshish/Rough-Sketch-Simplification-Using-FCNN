@@ -2,6 +2,10 @@
 
 This is a PyTorch implementation of the the Paper by Simo-Sera et.al. on Cleaning Rough Sketches using Fully Convolutional Neural Networks.
 
+I even wrote a [blog article on medium](https://medium.com/coinmonks/simplifying-rough-sketches-using-deep-learning-c404459622b9) explaining the complete paper.
+
+[**Original Paper**](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)
+
 ## Dependencis
 
 - PyTorch
